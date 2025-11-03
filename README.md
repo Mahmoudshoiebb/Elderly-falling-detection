@@ -31,7 +31,7 @@ It aims to provide a lightweight and efficient fall detection system suitable fo
 
 ## Demo
 
-<img src="docs/demo.gif" alt="Fall Detection Demo" width="600"/>
+<img src="docs/demo.png" alt="Fall Detection Demo" width="600"/>
 
 
 ---
