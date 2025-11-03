@@ -143,6 +143,6 @@ See the [LICENSE](LICENSE) file for more details.
 
 ## Contact
 **Mahmoud M. Shoieb**  
-GitHub: https://github.com/Mahmoudshoiebb 
-Email: mahmoudshoieb12@gmail.com
+GitHub: (https://github.com/Mahmoudshoiebb) 
+Email: (mahmoudshoieb12@gmail.com)
 
